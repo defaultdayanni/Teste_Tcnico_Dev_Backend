@@ -2,15 +2,8 @@
 
 ## O problema
 
-Um Dev Backend na Ginco terá como uma das principais atividades o consumo e criação de APIs para integrar aplicações, por isso o teste envolve a criação de uma API básica utilizando Prisma integrada a um DB SQL hospedado no PlanetScale (As tabelas do DB estão implementadas e pronto pra uso), desenvolvida em NextJS. Caso não conheça essas tecnologias, fique tranquilo, no fim dessa documentação colocamos alguns links básicos para referência.
-
-Nossa API deve ter a função de inserir feriados nacionais presentes em um JSON no DB e também possibilitar a inserção de mais feriados por input via um form simples (o forma já está implementado e pronto pra uso).
-
-Esse repositório deve ser clonado por você para que você desenvolva com base na estrutura de projeto já criada nele. Suas APIs, seguindo a documentação do NextJS, devem ser criadas no diretório /src/pages/api.
-
-A conexão ao banco de dados deve ter sido enviada previamente para você e você deve adicioná-la no arquivo .env na raiz desse repositório. Caso não tenha recebido a URL de conexão, entre em contato com o responsável pela sua entrevista.
-Além disso, você receberá também o nome da tabela que você deve usar ao manipular o DB.
-
+ criação de API para integrar aplicações, por isso o teste envolve a criação de uma API básica utilizando Prisma integrada a um DB SQL hospedado no PlanetScale (As tabelas do DB estão implementadas e pronto pra uso), desenvolvida em NextJS. 
+ 
 ## Feriados
 
 Os feriados nacionais fixos são:
