@@ -1,12 +1,4 @@
-# Teste Técnico Dev Backend
 
-Neste repositório você encontra o enunciado do teste técnico para a vaga de
-_Dev Backend_ da [Ginco](https://gincourbanismo.com.br/aginco/2/ha-20-anos-te-ajudamos-a-concretizar-seus-sonhos)! Essa é mais uma etapa do nosso processo seletivo, parabéns por chegar até aqui.
-
-> Você _pode_ usar o problema descrito aqui para exercitar suas habilidades de
-> desenvolvimento, mas a sua solução será avaliada por alguém da Ginco
-> **apenas se** você estiver no processo seletivo da vaga de _Dev
-> Backend_.
 
 ## O problema
 
@@ -83,32 +75,4 @@ Vamos baixar seu repositório e fazer os testes necessários para a avaliação.
 
 Esse teste ficará aberto para submissão até dia `24/01/2023`, esperamos que seja tempo suficiente para desenvolver o projeto.
 
-## Notas:
-1) O Prisma já está instalado, configurado, sincronizado e os acessos estão gerados, mas para iniciar o projeto, rode os comandos
-```
-yarn
-yarn prisma generate
-```
-para gerar os clientes do Prisma que você vai importar para cada API. 
-
-
-2) Caso não tenha experiência em yarn, prisma ou NextJS, aconselhamos que você leia os links enviados abaixo antes de iniciar o projeto. 
-
-3) Caso desconfigure algo que não consiga reverter, lembre-se que é possível baixar novamente o repositório e começar do zero. 
-
-4) Conforme documentação do Prisma, lembre-se de se desconectar do banco após fazer a requisição.
-
-5) Caso não consiga cumprir nenhuma das funcionalidades, não se entristeça, não deixe de submeter seu projeto, vamos avaliar o que foi feito, independente de estar finalizado ou não. 
-
-Deixaremos abaixo alguns materiais para consulta que vão te ajudar a desenvolver o projeto, em ordem de relevância:
-
-[Documentação do Prisma (ignore as configurações iniciais, conforme tópico 1 acima)](https://www.prisma.io/docs/getting-started/quickstart)
-
-[NextJS: Rotas de APIs (explore outros tópicos da documentação do NextJS em caso de dúvidas)](https://nextjs.org/learn/basics/api-routes/creating-api-routes)
-
-[Yarn: comandos e introdução](https://blog.betrybe.com/desenvolvimento-web/yarn/)
-
-[Prisma: Como instanciar a classe client e outras dicas](https://prensa.li/prensa/como-criar-um-sistema-crud-com-o-prisma/)
-
-**Boa sorte!**
 
