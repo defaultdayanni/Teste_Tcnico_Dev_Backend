@@ -66,13 +66,3 @@ localhost:3000/api/read?date=2023-01-01
 }
 ```
 
-## Avaliação
-
-
-Por fim, quando concluir suas implementações, suba um repositório público no seu Github e envie o link pelo meio de comunicação pelo qual você notificado sobre o teste, informando a conclusão. 
-
-Vamos baixar seu repositório e fazer os testes necessários para a avaliação.
-
-Esse teste ficará aberto para submissão até dia `24/01/2023`, esperamos que seja tempo suficiente para desenvolver o projeto.
-
-
